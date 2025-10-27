@@ -36,18 +36,10 @@ class UsersSettings():
                 "BINANCE_API_PRIVATE_KEY": "pb0WAueh9sJ1h63t3GWxwsZHunnDyNiVlWNVfgh7KZIQ4xBrmABW1T8Ageg4J4nN"
             },
 
-            # "proxy": {
-            #     "is_active": True,
-            #     "proxy_address": '154.218.20.43',
-            #     "proxy_port": '64630',
-            #     "proxy_login":'1FDJcwJR',
-            #     "proxy_password": 'U2yrFg4a'
-            # },
-
             "proxy": {
-                "is_active": True,
-                "proxy_address": '154.222.214.132',
-                "proxy_port": '62890',
+                "is_active": False,
+                "proxy_address": '154.218.20.43',
+                "proxy_port": '64630',
                 "proxy_login":'1FDJcwJR',
                 "proxy_password": 'U2yrFg4a'
             },
@@ -58,9 +50,7 @@ class UsersSettings():
             #     "proxy_login":'1FDJcwJR',
             #     "proxy_password": 'U2yrFg4a'
             # },
-            # 1FDJcwJR:U2yrFg4a@93.157.104.3:64514
-            # 1FDJcwJR:U2yrFg4a@154.222.214.132:62890
-            
+            # 1FDJcwJR:U2yrFg4a@93.157.104.3:64514           
 
             "core": { 
                 "margin_type": "CROSSED",         # Тип маржи. Кросс-маржа → "CROSSED", Изолированная → "ISOLATED"
