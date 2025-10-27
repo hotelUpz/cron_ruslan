@@ -38,11 +38,12 @@ class UsersSettings():
 
             "proxy": {
                 "is_active": True,
-                "proxy_address": '5.22.205.203',
+                "proxy_address": '45.192.135.214',
                 "proxy_port": '59100',
                 "proxy_login":'nikolassmsttt0Icgm',
                 "proxy_password": 'agrYpvDz7D'
             },
+            # curl -x http://nikolassmsttt0Icgm:agrYpvDz7D@45.192.135.214:59100 https://ipinfo.io
             # "proxy": {
             #     "is_active": True,
             #     "proxy_address": '93.157.104.3',
