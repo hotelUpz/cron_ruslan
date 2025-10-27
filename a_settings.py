@@ -37,11 +37,11 @@ class UsersSettings():
             },
 
             "proxy": {
-                "is_active": False,
-                "proxy_address": '154.218.20.43',
-                "proxy_port": '64630',
-                "proxy_login":'1FDJcwJR',
-                "proxy_password": 'U2yrFg4a'
+                "is_active": True,
+                "proxy_address": '5.22.205.203',
+                "proxy_port": '59100',
+                "proxy_login":'nikolassmsttt0Icgm',
+                "proxy_password": 'agrYpvDz7D'
             },
             # "proxy": {
             #     "is_active": True,
@@ -49,8 +49,7 @@ class UsersSettings():
             #     "proxy_port": '64514',
             #     "proxy_login":'1FDJcwJR',
             #     "proxy_password": 'U2yrFg4a'
-            # },
-            # 1FDJcwJR:U2yrFg4a@93.157.104.3:64514           
+            # },    
 
             "core": { 
                 "margin_type": "CROSSED",         # Тип маржи. Кросс-маржа → "CROSSED", Изолированная → "ISOLATED"
